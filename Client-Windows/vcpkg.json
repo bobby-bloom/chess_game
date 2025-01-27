@@ -1,0 +1,7 @@
+{
+  "dependencies": [
+    "cairo",
+    "gdk-pixbuf",
+    "librsvg"
+  ]
+}
